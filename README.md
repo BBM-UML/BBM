@@ -1,2 +1,2 @@
 # BBM
-Bomber Man Project
+Bomberman Project
